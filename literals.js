@@ -11,3 +11,5 @@ let price =5;
 // let totalPrice= template;
 let exact= `I bought ${item} ${quantity} total Price $${price*quantity}`;
 console.log(exact);
+let rating = 3;
+if (rating === 3) {console.log('YOU ARE A SUPERSTAR!')}
